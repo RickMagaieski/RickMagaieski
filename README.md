@@ -1,9 +1,8 @@
-- 👋 Hello, I'm @RickMagaieski
-- 👀 I'm interesting in MySQL, C, JavaScript, CSS, Html, Machine learning and PNL!
-- 🌱 Studying Python at the moment...
-- 💞️ I want to collaborate on any cool project that gives me the opportunity to grow!
-- 📫 If you want to talk to me call me on my email: thorgamests@gmail.com or henrimagaieski@icloud.com
-
+- 👋 Olá, eu sou @RickMagaieski
+- 👀 Estou interessado em MySQL, C, JavaScript, CSS, Html, Machine learning e PNL!
+- 🌱 Estudanto Python no momento...
+- 💞️ Quero colaborar em qualquer projeto legal que me dê a oportunidade de crescer!
+- 📫 Se quiser falar comigo me chame no meu e-mail: thorgamests@gmail.com ou henrimagaieski@icloud.com
 <!---
 RickMagaieski/RickMagaieski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
