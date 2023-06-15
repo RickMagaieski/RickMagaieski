@@ -1,6 +1,5 @@
 - 👋 Olá, eu sou @RickMagaieski
-- 👀 Estou interessado em MySQL, C, JavaScript, CSS, Html, Machine learning e PNL!
-- 🌱 Estudanto Python no momento...
+- 👀 Estou interessado em Python, MySQL, C e C++!
 - 💞️ Quero colaborar em qualquer projeto legal que me dê a oportunidade de crescer!
 - 📫 Se quiser falar comigo me chame no meu e-mail: thorgamests@gmail.com ou henrimagaieski@icloud.com
 <!---
