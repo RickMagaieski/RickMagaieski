@@ -1,5 +1,6 @@
 - 👋 Olá, eu sou @RickMagaieski
 - 👀 Estou interessado em Python, MySQL, C e C++!
+- 🌱 Estou estudando no momento Python, Git e GitHub 😄
 - 💞️ Quero colaborar em qualquer projeto legal que me dê a oportunidade de crescer!
 - 📫 Se quiser falar comigo me chame no meu e-mail: thorgamests@gmail.com ou henrimagaieski@icloud.com
 <!---
