@@ -2,7 +2,7 @@
 
 - 👀 Prazer, meu nome é **Henrique Magaieski**!
 - 📖 Estou estudando no momento **Python**, **Git** e **GitHub**!
-- ✨ Tenho um sério interesse em **MySql** e **C** por enquanto...
+- ✨ Tenho um sério interesse em **MySql** por enquanto...
 - 💞 Estou disposto a participar de qualquer projeto que me faça brilhar os olhos 🤩
 
 
