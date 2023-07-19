@@ -6,8 +6,6 @@
 - 💞 Estou disposto a participar de qualquer projeto que me faça brilhar os olhos 🤩
 
 
-![Snake animation](https://github.com/RickMagaieski/RickMagaieski/blob/output/github-contribution-grid-snake.svg)
-
 ***
 
 <div style="display: inline_block"><br>
