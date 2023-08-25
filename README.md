@@ -1,9 +1,9 @@
-# Olá! Seja bem vindo ao meu perfil 😄
+# Hello! Be welcomed to my profile 😄
 
-- 👀 Prazer, meu nome é **Henrique Magaieski**!
-- 📖 Estou estudando no momento **Python**, **Git** e **GitHub**!
-- ✨ Tenho um sério interesse em **MySql** por enquanto...
-- 💞 Estou disposto a participar de qualquer projeto que me faça brilhar os olhos 🤩
+- 👀 Pleasure, my name is **Henry Magaiski**!
+- 📖 I'm studying, at moment, **Python** and **Tkinter**!
+- ✨ I really want to study **MySql** in the future...
+- 💞 And i'm ready to work with people that love technology and want to change the world somehow 🙃
 
 
 ***
