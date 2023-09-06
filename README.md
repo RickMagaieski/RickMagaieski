@@ -1,7 +1,7 @@
 # Hello! Be welcomed to my profile 😄
 
 - 👀 Pleasure, my name is **Henry Magaiski**!
-- 📖 I'm studying, at moment, **Python** and **Tkinter**!
+- 📖 I'm studying, at moment, **Python**!
 - ✨ I really want to study **MySql** in the future...
 - 💞 And i'm ready to work with people that love technology and want to change the world somehow 🙃
 
