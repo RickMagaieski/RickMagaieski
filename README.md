@@ -2,7 +2,7 @@
 
 - 👀 Pleasure, my name is **Henry Magaieski**!
 - 📖 I'm studying, at moment, **Python**!
-- ✨ I really want to study **MySql** in the future...
+- ✨ I really want to study about **Machine Learning** in the future...
 - 💞 And i'm ready to work with people that love technology and want to change the world somehow 🙃
 
 
