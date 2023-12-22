@@ -1,6 +1,6 @@
 # Hello! Be welcomed to my profile 😄
 
-- 👀 Pleasure, my name is **Henry Magaieski**!
+- 👀 Pleasure, my name is **Henrique Magaieski**!
 - 📖 I'm studying, at moment, **Python**!
 - ✨ I really want to study about **Machine Learning** in the future...
 - 💞 And i'm ready to work with people that love technology and want to change the world somehow 🙃
