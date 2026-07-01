@@ -2,8 +2,8 @@
 
 - 👀 Pleasure, my name is **Henrique Magaieski**!
 - 📖 I'm studying, at moment, **Python**!
-- ✨ I really want to study about **MySQL** in the future...
-- 💞 And i'm ready to work with people that love technology and want to change the world somehow 🙃
+- ✨ I really want to study **MySQL** soon...
+- 💞 And I'm ready to work with people that love technology and want to change the world somehow 🙃
 
 
 ***
