@@ -1,9 +1,8 @@
-# Hello! Be welcomed to my profile 😄
+# Hello World! Welcome to my profile 😄
 
 - 👀 Pleasure, my name is **Henrique Magaieski**!
-- 📖 I'm studying, at moment, **Python**!
-- ✨ I really want to study **MySQL** soon...
-- 💞 And I'm ready to work with people that love technology and want to change the world somehow 🙃
+- 📖 I'm studying, at moment, **C++**!
+- 💞 And I'm ready to work with people that love technology and want to change the world somehow
 
 
 ***
@@ -18,7 +17,7 @@
 
 </div>
 <!---
-RickMagaieski/RickMagaieski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RickMagaieski/RickMagaieski is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
